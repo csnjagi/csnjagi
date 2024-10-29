@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @csnjagi
+- 👀 I’m interested in coding and fun activities (walks and movies)
+- 🌱 I’m currently learning PHP
+- 📫 How to reach me csnjagi@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: The first computer "bug" was an actual bug! In 1947😂
